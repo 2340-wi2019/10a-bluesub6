@@ -7,6 +7,12 @@ Version: 1.0
 Author: Guillermo J. Rosas
 Author URI: https://faculty.mccneb.edu/grosas
 License: GPL
+
+Jacobi Williams
+assignment10
+INFO2340.WW
+Prof.Thoendel 
+02/22/20
 */
 
 add_shortcode("wittyquote","get_quote");
